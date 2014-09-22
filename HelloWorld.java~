@@ -6,7 +6,7 @@ public class HelloWorld{
 
 		Scanner sc = new Scanner(System.in);
 		String name = sc.next();
-		
+	       //lolol	
 		System.out.printf("Hello, fucknugget!\n",name);
 		System.out.println();
 
