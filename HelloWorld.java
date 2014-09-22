@@ -8,7 +8,7 @@ public class HelloWorld{
 		String name = sc.next();
 	       //lolol	
 		System.out.printf("Hello, fucknugget!\n",name);
-		System.out.printf("Eh, you dick!\n");
+		System.out.printf("Eh, you dick!\n"); //why i add this shit
 		System.out.println();
 
 	}
